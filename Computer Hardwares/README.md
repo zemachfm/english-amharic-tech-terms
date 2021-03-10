@@ -4,27 +4,45 @@
 ## This file indlucdes computer hardware related translation words.
 ---
 ### A
-- Alt (key) 
 - Add-on
+- AMD
+- Analog
+- Alt (key) 
+- API
+- Application
 ### B
 - Beamer
+- Binary
+- Bitcoin
 - Blackberry
 - Blutooth
-- Bus
+- Botnet
+- Boot
+- Bot
+- Browser
+- Bus 
+- Byte
 ### C
 - Cache
 - Card
+- Cache Memory
 - CD bruner
 - CD writter
 - Chip
 - Client-server
 - Codec
+- Connection
+- Control
+- Cookie
 ### D
+- Data
 - Data-center
 - Data Projector
 - Desktop
 - Device
+- Digital
 - Disk Drive
 - Dongle
+- Download
 - Drive
 - Dumb Terminal
