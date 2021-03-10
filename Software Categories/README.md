@@ -9,11 +9,11 @@
 - Application - መተግበሪያ / ትግበራ 
 ### B
 - Binary 
-- Browser - ማሰሻ
+- (P) Browser - ማሰሻ
 - Bus 
 ### C
 - CD bruner
-- Client-server
+- (P) Client-server - ተቀባይ -አቀባይ / ውሳጅ - መላሽ 
 - Connection
 - Control
 - Codec

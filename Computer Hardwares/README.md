@@ -1,39 +1,35 @@
 # Hardware Translations
 
-## ይህ ዝርዝር ከ ኮምፒውተር ሀርድዌር ጋር የተገናኙ ቃላቶችን ይይዛል ፡፡
-## This file indlucdes computer hardware related translation words.
+### ይህ ዝርዝር ከ ኮምፒውተር ሀርድዌር ጋር የተገናኙ ቃላቶችን ይይዛል ፡፡ በየትኛውም የ ቃላት ትርጉም ላይ ቅራኒ ካላችሁ "Issue" መፍጠር ትችላላችሁ። ትርጉሙ በመሻሻል ላይ ላይ ያለ ስለሆነ የእናንተን እርዳታ እንሻለን።
+
+### This file indlucdes computer hardware related translation words. If you disagree in any of these translations here you can create an issue: Notice that this translation is a work in progress and your contirubtion is welcome.
 ---
 ### A
-- Add-on
-- AMD
+- (P) Add-on - ቅጥያ
+- AMD 
 - Analog
-- Alt (key) 
-- API
-- Application
+- (P) Alt (key) - ልዋጭ 
+- API 
+
 ### B
 - Beamer
-- Binary
+- Binary 
 - Bitcoin
 - Blackberry
 - Blutooth
 - Botnet
 - Boot
 - Bot
-- Browser
-- Bus 
-- Byte
+- Bus
+- Byte 
 ### C
 - Cache
 - Card
 - Cache Memory
-- CD bruner
 - CD writter
 - Chip
-- Client-server
-- Codec
 - Connection
 - Control
-- Cookie
 ### D
 - Data
 - Data-center
@@ -43,6 +39,4 @@
 - Digital
 - Disk Drive
 - Dongle
-- Download
 - Drive
-- Dumb Terminal
