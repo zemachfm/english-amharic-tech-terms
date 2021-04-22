@@ -6,6 +6,7 @@
 ---
 ### A
 - (P) Add-on - ቅጥያ
+- Agent - ወኪል
 - AMD 
 - Analog
 - (P) Alt (key) - ልዋጭ 
@@ -24,11 +25,13 @@
 - Byte 
 ### C
 - Cache
-- Card
+- Card 
 - Cache Memory
 - CD writter
 - Chip
+- Confirm - አረጋግጥ
 - Connection
+- Counter Measure - መመከት
 - Control
 ### D
 - Data
