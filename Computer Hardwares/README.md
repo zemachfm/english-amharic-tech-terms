@@ -10,6 +10,7 @@
 - AMD 
 - Analog
 - (P) Alt (key) - ልዋጭ 
+- (P) Artificial Intelligence - ሰው-ሰራሽ ብልሀት / ሰው-ሰራሽ አስተውሎ 
 - API 
 
 ### B
