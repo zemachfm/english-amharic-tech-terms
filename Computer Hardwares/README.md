@@ -44,3 +44,12 @@
 - Disk Drive
 - Dongle
 - Drive
+
+### S
+- (P) Sync - አዘምን
+
+### U
+
+- (P) Update - አድስ
+
+
