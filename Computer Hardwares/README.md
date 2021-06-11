@@ -6,11 +6,9 @@
 ---
 ### A
 - (P) Add-on - ቅጥያ
-- Agent - ወኪል
 - AMD 
 - Analog
 - (P) Alt (key) - ልዋጭ 
-- (P) Artificial Intelligence - ሰው-ሰራሽ ብልሀት / ሰው-ሰራሽ አስተውሎ 
 - API 
 
 ### B
@@ -30,9 +28,7 @@
 - Cache Memory
 - CD writter
 - Chip
-- Confirm - አረጋግጥ
 - Connection
-- Counter Measure - መመከት
 - Control
 ### D
 - Data
@@ -44,12 +40,5 @@
 - Disk Drive
 - Dongle
 - Drive
-
-### S
-- (P) Sync - አዘምን
-
-### U
-
-- (P) Update - አድስ
 
 
