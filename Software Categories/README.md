@@ -6,20 +6,21 @@
 ---
 
 ### A
+
 - Application - መተግበሪያ / ትግበራ 
 - Agent - ወኪል
 - (P) Alt - ልዋጭ 
 - (P) Artificial Intelligence - ሰው-ሰራሽ ብልሀት / ሰው-ሰራሽ አስተውሎ 
 
-
 ### B
 
-- Binary 
+- Binary - ሁለትዮሽ
 - (P) Browser - አሳሽ
-- Bus 
+- Bus - ቦይ
+
 ### C
 
-- CD bruner
+- CD burner
 - (P) Client-server - ተቀባይ -አቀባይ / ውሳጅ - መላሽ 
 - Confirm - አረጋግጥ
 - Counter Measure - መመከት

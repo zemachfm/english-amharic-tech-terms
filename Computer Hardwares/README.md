@@ -5,6 +5,7 @@
 ### This file indlucdes computer hardware related translation words. If you disagree in any of these translations here you can create an issue: Notice that this translation is a work in progress and your contirubtion is welcome.
 ---
 ### A
+
 - (P) Add-on - ቅጥያ
 - AMD 
 - Analog
@@ -12,6 +13,7 @@
 - API 
 
 ### B
+
 - Beamer
 - Binary 
 - Bitcoin
@@ -22,7 +24,9 @@
 - Bot
 - Bus
 - Byte 
+
 ### C
+
 - Cache
 - Card 
 - Cache Memory
@@ -30,7 +34,9 @@
 - Chip
 - Connection
 - Control
+
 ### D
+
 - Data
 - Data-center
 - Data Projector
@@ -40,5 +46,3 @@
 - Disk Drive
 - Dongle
 - Drive
-
-
