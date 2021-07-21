@@ -19,7 +19,7 @@
 
 This repository where people can contribute and also find tech terms translated from English to Amharic. Any one who have worked on systems that have Amharic translations know the pain of finding the right and correct Amharic term for certain English words, specially if they are technical words.
 
-## How They are structured 📝.
+## How It is structured 📝.
 
 - They are devided in categories.
     - Computer hardwares 
@@ -31,8 +31,7 @@ This repository where people can contribute and also find tech terms translated 
 
 I.e)  some of this terms might be related to one another , so there might be some collistions but we will try to keep those in separated as possible. 
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zemachfm 'Zemach FM Telegram')
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zemachfm 'Zemach FM Twitter')
 ![build:with](http://forthebadge.com/images/badges/built-with-love.svg)
+
